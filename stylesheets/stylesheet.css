@@ -6,4 +6,5 @@
 }
 
 #nav-bar-content ul li {
+  list-style-type: none;
 }
