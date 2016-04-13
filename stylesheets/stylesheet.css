@@ -1,4 +1,5 @@
 #nav-bar {
+  margin-top:;
   height: 40px;
   width: 100%;
   background-color: black;
@@ -7,4 +8,5 @@
 
 #nav-bar-content ul li {
   list-style-type: none;
+  margin-top: 5px;
 }
