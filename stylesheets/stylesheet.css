@@ -17,7 +17,7 @@
 
 @font-face {
     font-family: festus;
-    src: url(fonts/festus!.ttf);
+    src: url('fonts/festus!.ttf');
 }
 
 .festus {
