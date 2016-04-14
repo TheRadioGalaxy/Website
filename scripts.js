@@ -12,7 +12,7 @@ $(document).ready(function() {
     $(this).css('background-color', '');
   });
   
-  $('#contact button').hover(function(){
+  $('#contact div button').hover(function(){
     $(this).css('background-color', 'rgb(180,130,230)');
   }, function() {
     $(this).css('background-color', '');
