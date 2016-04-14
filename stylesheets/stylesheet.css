@@ -94,6 +94,8 @@ body {
 
 #contact button {
   background-color: rgb(150,100,200);
+  height: 30px;
+  width: 100px;
   border-style: none;
   margin-bottom: 50px;
 }
