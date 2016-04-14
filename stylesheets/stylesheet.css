@@ -17,7 +17,7 @@
 
 @font-face {
   font-family: 'davyfrancis';
-  src: url(fonts/Davy_Francis.ttf) format('truetype');
+  src: url('fonts/Davy_Francis.ttf') format('truetype');
 }
 
 .davyfrancis {
