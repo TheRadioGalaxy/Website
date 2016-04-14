@@ -78,3 +78,8 @@ body {
   font-family: 'davyfrancis';
   src: url('../fonts/WCManoNegraBta.ttf') format('truetype');
 }
+
+@font-face {
+  font-family: 'abeakrg';
+  src: url('../fonts/ABEAKRG.TTF') format('truetype');
+}
