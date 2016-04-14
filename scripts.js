@@ -12,6 +12,11 @@ $(document).ready(function() {
     $(this).css('background-color', '');
   });
   
+  $('#content button').hover(function(){
+    $(this).css('background-color', 'rgb(180,130,230)');
+  }, function() {
+    $(this).css('background-color', '');
+  });
 
 
 });
