@@ -17,7 +17,7 @@
 
 @font-face {
   font-family: 'davyfrancis';
-  src: url('fonts/WCManoNegraBta.ttf') format('truetype');
+  src: url('/fonts/WCManoNegraBta.ttf') format('truetype');
 }
 
 .davyfrancis {
