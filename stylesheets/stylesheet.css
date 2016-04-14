@@ -16,10 +16,10 @@
 }
 
 @font-face {
-  font-family: davyfrancis;
+  font-family: 'davyfrancis';
   src: url(fonts/Davy_Francis.ttf) format('truetype');
 }
 
 .davyfrancis {
-  font-family: davyfrancis;
+  font-family: 'davyfrancis';
 }
