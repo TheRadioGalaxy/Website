@@ -51,8 +51,8 @@ body {
 
 #scroller {
   position: relative;
-  width: 550px;
-  height: 400px;
+  width: 40vw;
+  height: 15vh;
   margin: 0 auto;
 }
 
