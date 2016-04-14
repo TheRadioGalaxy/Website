@@ -33,3 +33,11 @@ body {
   font-family: davyfrancis;
   font-size: 130px;
 }
+
+.circles {
+  background-color: blue;
+  height: 50px;
+  width: 50px;
+  border-radius: 100px;
+  
+}
