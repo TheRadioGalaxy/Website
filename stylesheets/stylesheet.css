@@ -89,6 +89,7 @@ body {
 #contact img {
   height: 500px;
   width: 800px;
+  margin-bottom: 20px;
 }
 
 @font-face {
