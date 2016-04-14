@@ -50,7 +50,7 @@ body {
   margin: 0 auto;
 }
 
-#scroller div ul lu {
+.innerScrollArea ul lu {
   width: 600px;
   height: 400px;
 }
