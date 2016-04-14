@@ -92,6 +92,10 @@ body {
   margin-bottom: 20px;
 }
 
+#contact btn {
+  background-color: rgb(150,100,200);
+}
+
 @font-face {
   font-family: 'davyfrancis';
   src: url('../fonts/WCManoNegraBta.ttf') format('truetype');
