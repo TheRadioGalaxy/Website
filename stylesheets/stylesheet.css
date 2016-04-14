@@ -1,3 +1,6 @@
+body {
+  background: url(http://wall.wallrage.com/wp-content/uploads/4k-Space-Cool-Wallpapers.jpg);
+}
 #nav-bar {
   margin-top:;
   height: 40px;
@@ -21,6 +24,7 @@
 }
 
 .radioGalaxy {
+  color: white;
   margin-top: 10vh;
   font-family: davyfrancis;
   font-size: 150px;
