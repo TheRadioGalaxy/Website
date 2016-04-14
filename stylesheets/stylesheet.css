@@ -16,10 +16,10 @@
 }
 
 @font-face {
-    font-family: festus;
-    src: url('fonts/festus!.ttf');
+    font-family: 'davyfrancis';
+    src: url('Davy_Francis.ttf');
 }
 
 .festus {
-  font-family: 'festus';
+  font-family: 'davyfrancis';
 }
