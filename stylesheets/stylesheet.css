@@ -22,6 +22,7 @@ body {
   list-style-type: none;
   padding: 8px;
   font-family: abeakrg;
+  cursor: pointer;
 }
 
 #nav-bar-mini {
