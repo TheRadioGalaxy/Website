@@ -1,5 +1,8 @@
 $(document).ready(function() {
-console.log('change');
+  
+$('#content').load('home.html');
+
+//Scroller Funcionality
 $(function(){
   var scroller = $('#scroller div.innerScrollArea');
   var scrollerContent = scroller.children('ul');
