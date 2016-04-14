@@ -42,6 +42,19 @@ body {
   height: 40vh;
 }
 
+/* Image Scroller */
+
+#scroller {
+  width: 550px;
+  height: 400px;
+  margin: 0 auto;
+}
+
+#scroller div ul lu {
+  width: 600;
+  height: 400;
+}
+
 @font-face {
   font-family: 'davyfrancis';
   src: url('../fonts/WCManoNegraBta.ttf') format('truetype');
