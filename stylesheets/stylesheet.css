@@ -1,10 +1,8 @@
 body {
-  background: url('../images/milky-way-735693_1920.jpg') no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}
+  background: url('../images/milky-way-735693_1920.jpg')
+  width: 80vw;
+  height: 50vh;
+  
 #nav-bar {
   margin-top:;
   height: 40px;
