@@ -23,6 +23,14 @@ body {
   padding: 8px;
 }
 
+#nav-bar-mini {
+  margin-top:;
+  height: 40px;
+  width: 100%;
+  background-color: black;
+  color: white;
+}
+
 @font-face {
   font-family: 'davyfrancis';
   src: url('../fonts/WCManoNegraBta.ttf') format('truetype');
