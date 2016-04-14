@@ -1,3 +1,5 @@
+$(document).ready(function() {
+
 $(function(){
   var scroller = $('#scroller div.innerScrollArea');
   var scrollerContent = scroller.children('ul');
@@ -39,4 +41,6 @@ $(function(){
     };
     setInterval(doScroll, 20);
     tweenToNewSpeed(controller.fullSpeed);
+});
+
 });
