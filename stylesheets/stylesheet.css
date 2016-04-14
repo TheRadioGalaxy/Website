@@ -1,5 +1,9 @@
 body {
-  background: url(http://wall.wallrage.com/wp-content/uploads/4k-Space-Cool-Wallpapers.jpg);
+  background: url(http://wall.wallrage.com/wp-content/uploads/4k-Space-Cool-Wallpapers.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 #nav-bar {
   margin-top:;
