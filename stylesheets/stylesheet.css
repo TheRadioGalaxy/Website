@@ -34,3 +34,7 @@ body {
   font-family: davyfrancis;
   font-size: 130px;
 }
+
+.content {
+  background-color: white;
+}
