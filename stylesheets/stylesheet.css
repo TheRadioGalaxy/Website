@@ -105,7 +105,15 @@ body {
   src: url('../fonts/WCManoNegraBta.ttf') format('truetype');
 }
 
+.davyfrancis {
+  font-family: 'davyfrancis';
+}
+
 @font-face {
   font-family: 'abeakrg';
   src: url('../fonts/ABEAKRG.TTF') format('truetype');
+}
+
+.abeakrg {
+  font-family: 'abeakrg';
 }
