@@ -18,6 +18,10 @@ body {
   font-family: abeakrg;
   font-size: 16px;
 }
+.homeTitle {
+  font-family: davyfrancis;
+  font-size: 22px;
+}
 
 #nav-bar {
   height: 40px;
