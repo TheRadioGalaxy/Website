@@ -43,7 +43,8 @@ body {
 }
 
 #nav-bar-mini p {
-  margin-top: 12px;
+  margin-top: 6px;
+  padding: 6px;
   color: white;
   font-family: abeakrg;
   list-style: none;
