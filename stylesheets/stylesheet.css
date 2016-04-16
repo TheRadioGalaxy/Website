@@ -13,13 +13,13 @@ body {
 
 #nav-bar {
   height: 40px;
-  width: 100%;
   background-color: black;
   color: white;
 }
 
 #nav-bar p {
   font-family: abeakrg;
+  padding: 12px;
 }
 
 #nav-bar-content ul li {
