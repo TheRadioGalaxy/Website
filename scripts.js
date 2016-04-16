@@ -10,7 +10,7 @@ $(document).ready(function() {
     $('#content').load('about.html');
   });
   
-  $('#nav-bar-content ul li').hover(function(){
+  $('#nav-bar-content p').hover(function(){
     $(this).css('background-color', 'rgb(150,100,200)');
   }, function() {
     $(this).css('background-color', '');
