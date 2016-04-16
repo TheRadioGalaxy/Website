@@ -13,6 +13,7 @@ body {
 
 #nav-bar {
   height: 40px;
+  width: 100%;
   background-color: black;
   color: white;
 }
