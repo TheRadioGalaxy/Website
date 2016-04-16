@@ -34,12 +34,13 @@ body {
   height: 40px;
   width: 100%;
   background-color: black;
-  color: white;
 }
 
 #nav-bar-mini ul li {
+  padding: 8px;
   color: white;
   font-family: abeakrg;
+  list-style: none;
 }
 
 .radioGalaxy {
