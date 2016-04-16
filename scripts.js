@@ -16,7 +16,7 @@ $(document).ready(function() {
     $(this).css('background-color', '');
   });
   
-  $('#nav-bar-mini ul li').hover(function(){
+  $('#nav-bar-mini p').hover(function(){
     $(this).css('background-color', 'rgb(150,100,200)');
   }, function() {
     $(this).css('background-color', '');
