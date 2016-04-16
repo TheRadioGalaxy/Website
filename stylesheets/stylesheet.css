@@ -19,7 +19,7 @@ body {
 }
 
 #nav-bar p {
-  padding: 10px;
+  padding: 12px;
   font-family: abeakrg;
 }
 
@@ -37,7 +37,7 @@ body {
 }
 
 #nav-bar-mini ul li {
-  padding: 10px;
+  padding: 12px;
   color: white;
   font-family: abeakrg;
   list-style: none;
