@@ -30,12 +30,6 @@ body {
   font-family: abeakrg;
   margin-top: 2px;
   padding: 8px;
-}
-
-#nav-bar-content ul li {
-  list-style-type: none;
-  padding: 8px;
-  font-family: abeakrg;
   cursor: pointer;
 }
 
@@ -55,7 +49,7 @@ body {
   padding: 8px;
   color: white;
   font-family: abeakrg;
-  list-style: none;
+  cursor: pointer;
 }
 
 #content {
