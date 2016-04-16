@@ -21,6 +21,7 @@ body {
 #nav-bar p {
   font-family: abeakrg;
   margin-top: 12px;
+  padding: 8px;
 }
 
 #nav-bar-content ul li {
