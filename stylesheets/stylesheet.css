@@ -31,7 +31,7 @@ body {
 }
 
 .mainPage {
-  margin: 0 auto;
+  width: 60vw;
 }
 
 #nav-bar-mini {
