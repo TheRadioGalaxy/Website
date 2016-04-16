@@ -55,6 +55,7 @@ body {
   margin-top: 8vh;
   font-family: davyfrancis;
   font-size: 130px;
+  text-shadow: 1px 1px 1px black;
 }
 
 #content {
