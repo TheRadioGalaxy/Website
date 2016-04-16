@@ -30,9 +30,13 @@ body {
   cursor: pointer;
 }
 
+.mainPage {
+  width: 70%;
+}
+
 #nav-bar-mini {
   height: 40px;
-  width: 70%;
+  width: 100%;
   background-color: black;
 }
 
