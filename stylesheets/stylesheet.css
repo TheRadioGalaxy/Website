@@ -33,11 +33,6 @@ body {
   cursor: pointer;
 }
 
-.mainPage {
-  margin: 0 10vw 0 10vw;
-  background-color: white;
-}
-
 #nav-bar-mini {
   height: 40px;
   width: 100%;
