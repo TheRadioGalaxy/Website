@@ -17,6 +17,10 @@ body {
 .mainPage {
   margin: 0 8vw;
 }
+
+.contentRows {
+  margin: 5px 0;
+}
 .basic {
   font-family: abeakrg;
   font-size: 16px;
