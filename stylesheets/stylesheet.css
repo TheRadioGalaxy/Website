@@ -33,7 +33,7 @@ body {
 
 .gutterHome img {
   position: relative;
-  left: 20px;
+  right: 20px;
   height: 70px;
   width: 100px;
   border: 1px solid black;
