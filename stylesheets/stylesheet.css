@@ -20,8 +20,7 @@ body {
 
 .carousel-caption {
   top: auto;
-  bottom: 10px;
-  left: 10px;
+  bottom: 0;
 }
 
 .contentRows {
