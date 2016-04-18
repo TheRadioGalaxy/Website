@@ -24,19 +24,13 @@ body {
 }
 
 .icons img {
-  -webkit-transition: -webkit-transform 0.5s ease;
-  -moz-transition: -moz-transform 0.5s ease;
-  transition: transform 0.5s ease;
   margin-top:5px;
   height: 50px;
   width: 50px;
 }
 
 .icons img:hover {
-  -webkit-transform: scale(1.25);
-  -moz-transform: scale(1.25);
-  -o-transform: scale(1.25);
-  transform: scale(1.25);
+  margin-left:10px;
 }
 
 .mainPage {
