@@ -148,6 +148,7 @@ body {
   align: center;
   size: 2px;
   width: 70%;
+  background-color: black;
 }
 
 @font-face {
