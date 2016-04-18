@@ -62,6 +62,10 @@ body {
   cursor: pointer;
 }
 
+.blueHover:hover {
+  background-color: rgb(100,100,255);
+}
+
 #nav-bar-mini {
   height: 40px;
   width: 100%;
