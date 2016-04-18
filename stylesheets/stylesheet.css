@@ -18,9 +18,14 @@ body {
   margin: 0 8vw;
 }
 
+.carousel-caption {
+  bottom: initial;
+}
+
 .contentRows {
   margin-bottom: 50px;
 }
+
 .basic {
   font-family: abeakrg;
   font-size: 16px;
