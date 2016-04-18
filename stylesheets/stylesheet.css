@@ -20,7 +20,7 @@ body {
 
 .socIcons {
   margin-top: 100px;
-  float: left;
+  overflow: hidden;
 }
 
 .mainPage {
