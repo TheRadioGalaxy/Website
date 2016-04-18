@@ -12,8 +12,7 @@ body {
 
 .radioGalaxy {
   color: white;
-  margin-top: 8vh;
-  margin-bottom: 20px;
+  margin: 8vh;
   font-family: davyfrancis;
   font-size: 130px;
   text-shadow: 2px 2px 1px black;
