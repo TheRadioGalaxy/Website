@@ -143,6 +143,13 @@ body {
   margin-bottom: 50px;
 }
 
+.hr {
+  margin: 20px auto;
+  align: center;
+  size: 2px;
+  width: 70%;
+}
+
 @font-face {
   font-family: 'davyfrancis';
   src: url('../fonts/WCManoNegraBta.ttf') format('truetype');
