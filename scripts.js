@@ -9,7 +9,7 @@ $(document).ready(function() {
   $('#aboutLink').click(function(){
     $('#content').load('about.html');
   });
-  
+  console.log('change')
   $('.gutterHome').hover(function(){
     $(this).css('background-color', 'rgba(100,100,255, .3)');
   }, function() {
