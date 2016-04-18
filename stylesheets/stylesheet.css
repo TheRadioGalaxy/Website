@@ -29,11 +29,11 @@ body {
   height: 100px;
   width: 100%;
   margin-top: 10px;
-  border-radius: 20px;
+  border-radius: 5px;
 }
 
 .gutterHome:hover {
-  background-color: rgba(0,100,255,0.3);
+  background-color: rgba(0,100,255,0.1);
 }
 
 .gutterHome img {
