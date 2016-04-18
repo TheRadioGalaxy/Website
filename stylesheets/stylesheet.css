@@ -147,6 +147,7 @@ body {
 
 #foot {
   background-color: black;
+  margin: 0 8vw;
 }
 
 @font-face {
