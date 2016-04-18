@@ -1,8 +1,6 @@
 $(document).ready(function() {
   
-  //$('#content').load('home.html');
-  
-  console.log('change')
+  $('#content').load('home.html');
   
   $('#contactLink').click(function(){
     $('#content').load('contact.html');
