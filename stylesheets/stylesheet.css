@@ -31,6 +31,7 @@ body {
 }
 
 .gutterHome img {
+  text-align: left;
   height: 70px;
   width: 100px;
 }
