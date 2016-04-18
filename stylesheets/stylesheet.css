@@ -18,6 +18,11 @@ body {
   text-shadow: 2px 2px 1px black;
 }
 
+.socIcons {
+  margin-top: 100px;
+  float: left;
+}
+
 .mainPage {
   margin: 0 8vw;
   background-color: white;
