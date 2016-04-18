@@ -151,6 +151,10 @@ body {
   
 }
 
+.white {
+  background-color: white;
+}
+
 @font-face {
   font-family: 'davyfrancis';
   src: url('../fonts/WCManoNegraBta.ttf') format('truetype');
