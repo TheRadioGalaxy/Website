@@ -144,6 +144,12 @@ body {
   margin-bottom: 50px;
 }
 
+#foot {
+  background-color: white;
+  margin: 30px 8vw 0 8vw;
+  
+}
+
 @font-face {
   font-family: 'davyfrancis';
   src: url('../fonts/WCManoNegraBta.ttf') format('truetype');
