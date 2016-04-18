@@ -29,7 +29,6 @@ body {
   height: 100px;
   width: 100%;
   margin-top: 10px;
-  border: 1px solid black;
 }
 
 .gutterHome img {
@@ -37,7 +36,6 @@ body {
   right: 17px;
   height: 70px;
   width: 100px;
-  border: 1px solid black;
 }
 
 .basic {
