@@ -22,7 +22,12 @@ body {
   bottom: initial;
   top: 50%;
   transform: translateY(-50%);
+}
 
+.gridPic {
+  -webkit-transform-style: preserve-3d;
+  -moz-transform-style: preserve-3d;
+  transform-style: preserve-3d;
 }
 
 .contentRows {
