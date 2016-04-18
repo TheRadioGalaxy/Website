@@ -29,10 +29,6 @@ body {
   width: 50px;
 }
 
-.icons img:hover {
-  margin-left:10px;
-}
-
 .mainPage {
   margin: 0 8vw;
   background-color: white;
