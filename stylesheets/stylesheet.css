@@ -29,6 +29,11 @@ body {
   width: 50px;
 }
 
+.icons img:hover {
+  height: 60px;
+  width: 60px;
+}
+
 .mainPage {
   margin: 0 8vw;
   background-color: white;
