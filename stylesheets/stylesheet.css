@@ -33,7 +33,7 @@ body {
 }
 
 .gutterHome:hover {
-  background-color: rgba(100,100,255, 0.3);
+  background-color: rgba(0,100,255,0.3);
 }
 
 .gutterHome img {
