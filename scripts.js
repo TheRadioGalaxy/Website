@@ -11,7 +11,7 @@ $(document).ready(function() {
   });
   console.log('change')
   $('.gutterHome').hover(function(){
-    $(this).css('background-color', 'rgba(100,100,255, .3)');
+    $(this).css('background-color', 'rgba(100,100,255, 0.3)');
   }, function() {
     $(this).css('background-color', '');
   });
