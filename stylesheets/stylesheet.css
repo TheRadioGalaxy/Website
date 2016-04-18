@@ -32,6 +32,10 @@ body {
   border-radius: 20px;
 }
 
+.gutterHome:hover {
+  background-color: rgba(100,100,255, 0.3);
+}
+
 .gutterHome img {
   position: relative;
   right: 12px;
