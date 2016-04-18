@@ -10,6 +10,8 @@ $(document).ready(function() {
     $(this).css('height', '50px');
   })
   
+  console.log('change')
+  
   $('#contactLink').click(function(){
     $('#content').load('contact.html');
   });
