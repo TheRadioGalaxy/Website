@@ -11,13 +11,13 @@ $(document).ready(function() {
   });
   
   $('#nav-bar-content p').hover(function(){
-    $(this).css('background-color', 'rgb(150,100,200)');
+    $(this).css('background-color', 'rgb(130,100,255)');
   }, function() {
     $(this).css('background-color', '');
   });
   
   $('#nav-bar-mini p').hover(function(){
-    $(this).css('background-color', 'rgb(150,100,200)');
+    $(this).css('background-color', 'rgb(130,100,255)');
   }, function() {
     $(this).css('background-color', '');
   });
