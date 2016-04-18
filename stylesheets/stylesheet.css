@@ -146,7 +146,8 @@ body {
 }
 
 #foot {
-  margin: 0 8vw;
+  margin: 0 9vw;
+  margin-top: 30px;
   background-color: black;
 }
 
