@@ -147,12 +147,9 @@ body {
 
 #foot {
   background-color: white;
-  margin: 30px 9vw 0 9vw;
+  margin-top: 30px;
+  width: 9vw;
   
-}
-
-.white {
-  background-color: white;
 }
 
 @font-face {
