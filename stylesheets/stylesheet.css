@@ -150,6 +150,10 @@ body {
   background-color: black;
 }
 
+#foot a {
+  padding: 10px;
+}
+
 @font-face {
   font-family: 'davyfrancis';
   src: url('../fonts/WCManoNegraBta.ttf') format('truetype');
