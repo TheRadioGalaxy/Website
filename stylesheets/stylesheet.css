@@ -154,6 +154,10 @@ body {
   background-color: black;
 }
 
+#foot row {
+  padding: 50px;  
+}
+
 #foot a {
   text-decoration: none;
   margin-top: 10px;
