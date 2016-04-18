@@ -146,10 +146,7 @@ body {
 }
 
 #foot {
-  background-color: white;
-  margin-right: 30px;
-  margin-left: 30px;
-  
+  background-color: black;
 }
 
 @font-face {
