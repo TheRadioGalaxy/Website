@@ -160,6 +160,9 @@ body {
   padding: 10px;
 }
 
+#copyright {
+  font-size: 10px;
+}
 @font-face {
   font-family: 'davyfrancis';
   src: url('../fonts/WCManoNegraBta.ttf') format('truetype');
