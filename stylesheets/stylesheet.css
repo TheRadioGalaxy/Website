@@ -19,8 +19,9 @@ body {
 }
 
 .carousel-caption {
-  top: 0;
-  bottom: auto;
+  top: auto;
+  bottom: 0;
+  left: 0;
 }
 
 .contentRows {
