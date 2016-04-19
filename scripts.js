@@ -1,6 +1,6 @@
 $(document).ready(function() {
   
-  $('#content').load('home.html');
+  //$('#content').load('home.html');
   
   $('#homeLink').click(function(){
     $('#content').load('home.html');
