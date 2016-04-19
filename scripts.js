@@ -2,6 +2,10 @@ $(document).ready(function() {
   
   //$('#content').load('home.html');
   
+  $('#newMusicLink').click(function(){
+    $('#content').load('newmusic.html');
+  });
+  
   $('#homeLink').click(function(){
     $('#content').load('home.html');
   });
