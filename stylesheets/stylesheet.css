@@ -146,20 +146,6 @@ body {
   width: 100%;
 }
 
-#contact img {
-  height: 500px;
-  width: 800px;
-  margin-bottom: 20px;
-}
-
-#contact button {
-  background-color: black;
-  height: 30px;
-  width: 100px;
-  border-style: none;
-  margin-bottom: 50px;
-}
-
 #foot {
   margin: 0 9vw;
   background-color: black;
