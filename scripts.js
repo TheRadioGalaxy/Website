@@ -10,6 +10,10 @@ $(document).ready(function() {
     $('#content').load('newmusic.html');
   });
   
+  $('#newsLink').click(function(){
+    $('#content').load('news.html');
+  });
+  
   $('#homeLink').click(function(){
     $('#content').load('home.html');
   });
