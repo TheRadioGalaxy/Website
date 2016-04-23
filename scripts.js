@@ -2,6 +2,10 @@ $(document).ready(function() {
   
   //$('#content').load('home.html');
   
+  $('#reviewsLink').click(function(){
+    $('#content').load('reviews.html')
+  })
+  
   $('#eventsLink').click(function(){
     $('#content').load('events.html');
   });
