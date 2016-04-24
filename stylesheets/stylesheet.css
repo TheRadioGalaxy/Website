@@ -61,6 +61,10 @@ body {
 
 #twitcker-bar {
   position: fixed;
+  speed: 6;
+  count: 50;
+  tweet: red;
+  container: 'footer';
 }
 
 .basic {
