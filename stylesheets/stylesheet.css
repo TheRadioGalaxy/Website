@@ -60,7 +60,6 @@ body {
 }
 
 #twitcker-bar {
-  float: bottom;
   position: fixed;
 }
 
