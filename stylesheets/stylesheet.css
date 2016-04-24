@@ -59,6 +59,11 @@ body {
   width: 100px;
 }
 
+#twitcker-bar {
+  float: bottom;
+  position: fixed;
+}
+
 .basic {
   font-family: abeakrg;
   font-size: 16px;
