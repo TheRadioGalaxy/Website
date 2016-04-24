@@ -164,8 +164,9 @@ body {
 #copyright {
   font-size: 10px;
   color: gray;
-  margin-bottom: 25px;
+  margin-bottom: 40px;
 }
+
 @font-face {
   font-family: 'davyfrancis';
   src: url('../fonts/WCManoNegraBta.ttf') format('truetype');
