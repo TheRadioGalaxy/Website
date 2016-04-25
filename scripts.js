@@ -11,7 +11,7 @@ $(document).ready(function() {
   
   $('#content').socialist({
     networks: [
-      {name:'twitter',id:'radiogalaxyblog}
+      {name:'twitter',id:'radiogalaxyblog'}
     ]
   });
 
