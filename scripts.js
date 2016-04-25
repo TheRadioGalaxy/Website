@@ -9,6 +9,9 @@ $(document).ready(function() {
     (document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(ticker);
   })();
 
+  $('#feedLink').click(function(){
+    $('#content').load('feed.html')
+  })
   
   $('#interviewsLink').click(function(){
     $('#content').load('interviews.html')
