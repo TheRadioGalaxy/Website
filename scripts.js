@@ -9,13 +9,6 @@ $(document).ready(function() {
     (document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(ticker);
   })();
   
-  $('#content').socialist({
-    networks: [
-      {name:'twitter',id:'radiogalaxyblog'}
-    ]
-  });
-
-  
   $('#interviewsLink').click(function(){
     $('#content').load('interviews.html')
   })
