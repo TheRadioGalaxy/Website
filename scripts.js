@@ -11,13 +11,7 @@ $(document).ready(function() {
   
   $('#content').socialist({
     networks: [
-      {name:'linkedin',id:'buddy-media'},
-      {name:'facebook',id:'in1dotcom'},
-      {name:'pinterest',id:'potterybarn'},
-      {name:'twitter',id:'in1dotcom'},
-      {name:'googleplus',id:'105588557807820541973/posts'},
-      {name:'rss',id:' http://feeds.feedburner.com/good/lbvp'},
-      {name:'craigslist',id:'boo',areaName:'southcoast'}
+      {name:'twitter',id:'radiogalaxyblog}
     ]
   });
 
