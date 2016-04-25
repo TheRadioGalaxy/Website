@@ -1,6 +1,6 @@
 $(document).ready(function() {
   
-  //$('#content').load('home.html');
+  $('#content').load('home.html');
   
   (function(){var ticker=document.createElement('script');
     ticker.type='text/javascript';
