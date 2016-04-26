@@ -8,6 +8,14 @@ $(document).ready(function() {
     ticker.src='//twitcker.com/ticker/radiogalaxyblog.js?background=000000&speed=6&count=50&tweet=0050ff&container=footer';
     (document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(ticker);
   })();
+  
+  //Home Page
+  
+  $('#t1').click(function(){
+    $('#content').load('t1.html')
+  })
+
+  //Index
 
   $('#feedLink').click(function(){
     $('#content').load('feed.html')
